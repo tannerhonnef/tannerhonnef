@@ -1,5 +1,8 @@
 ## **Hi there 👋, my name is Tanner Honnef**
 
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/tannerhonnef/tannerhonnef">
+
+
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/tanner-honnef-425683186/)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=xVDuszoAAAAJ&hl=en)
 
