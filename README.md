@@ -8,7 +8,7 @@
   
 + 🎓 BA in the Department of Geography @ [Clark University](https://www.clarku.edu/departments/geography/). 
 
-+ 💻 My research interests include Geographic Information Science (GIS), spatial modeling, and spatial data science.
++ 💻 My research interests include Geographic Information Science (GIS), land change science, urban forestry and spatial data science.
 
 + 💡 More information can be found on my [LinkedIn](https://www.linkedin.com/in/tanner-honnef-425683186/) | [CV](https://gisynw.github.io/YananWu-Files/YananWu_CV.pdf) | [Resume](https://gisynw.github.io/YananWu-Files/YananWu_Resume.pdf) | [Google Scholar](https://scholar.google.com/citations?user=xVDuszoAAAAJ&hl=en) and blog post on [Medium](https://ywu120766.medium.com/)
 
