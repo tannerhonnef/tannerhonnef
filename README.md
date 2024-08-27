@@ -34,6 +34,6 @@
 ## Get in touch
 ### **I'm always open and looking for any opportunity, feel free to reach me out via:<br />**
 - Email: [thonnef@clarku.edu](mailto:thonnef@clarku.edu)<br />
-- Linkedin: [in/giswu](https://www.linkedin.com/in/giswu/)<br />
+- Linkedin: [in/tannerhonnef](https://www.linkedin.com/in/tanner-honnef-425683186/)<br />
 - Twitter: [YananWGIS](https://twitter.com/YananWGIS)<br />
 - Medium: [@ywu120766](https://medium.com/@ywu120766)
