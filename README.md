@@ -4,7 +4,7 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=xVDuszoAAAAJ&hl=en)
 
 #### **Spatial Minds, Data Discoveries - an explorer who merges the worlds of data and geography.** 
-+ 👩‍🏫 I am a master's student in the Graduate School of Geography at Clark University
++ 👩‍🏫 I am a master's student in the Graduate School of Geography at **Clark University**
   
 + 🎓 BA in the Department of Geography @ [Clark University](https://www.clarku.edu/departments/geography/). 
 
