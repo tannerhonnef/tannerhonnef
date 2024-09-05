@@ -13,7 +13,7 @@
 
 + 💻 My research interests include Geographic Information Science (GIS), land change science, urban forestry and spatial data science.
 
-+ 💡 More information can be found on my [LinkedIn](https://www.linkedin.com/in/tanner-honnef-425683186/) | [CV](https://gisynw.github.io/YananWu-Files/YananWu_CV.pdf) | [Resume](https://gisynw.github.io/YananWu-Files/YananWu_Resume.pdf) | [Google Scholar](https://scholar.google.com/citations?user=xVDuszoAAAAJ&hl=en) and blog post on [Medium](https://ywu120766.medium.com/)
++ 💡 More information can be found on my [LinkedIn](https://www.linkedin.com/in/tanner-honnef-425683186/) | [CV - not yet active]| [Resume - not yet active]() | [Google Scholar - not yet active]()
 
 ---
 
@@ -37,6 +37,4 @@
 ## Get in touch
 ### **I'm always open and looking for any opportunity, feel free to reach me out via:<br />**
 - Email: [thonnef@clarku.edu](mailto:thonnef@clarku.edu)<br />
-- Linkedin: [in/tannerhonnef](https://www.linkedin.com/in/tanner-honnef-425683186/)<br />
-- Twitter: [YananWGIS](https://twitter.com/YananWGIS)<br />
-- Medium: [@ywu120766](https://medium.com/@ywu120766)
+- Linkedin: [in/tannerhonnef](https://www.linkedin.com/in/tanner-honnef-425683186/)
