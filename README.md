@@ -13,24 +13,12 @@
 
 + 💻 My research interests include Geographic Information Science (GIS), land change science, urban forestry and spatial data science.
 
-+ 💡 More information can be found on my [LinkedIn](https://www.linkedin.com/in/tanner-honnef-425683186/) | [CV - not yet active]| [Resume - not yet active] | [Google Scholar - not yet active]
++ 💡 More information can be found on my [LinkedIn](https://www.linkedin.com/in/tanner-honnef-425683186/) | [Resume](https://tannerhonnef.github.io/docs/thonnefResume.pdf)
 
 ---
 
 ## **Skills**
 ![My Skills](https://skillicons.dev/icons?i=js,py,r,html,css)
-
-## Latest Blog Post on [Medium](https://ywu120766.medium.com/)
-
-[Publish and update web map on ArcGIS Online Using ArcGIS API for Python](https://ywu120766.medium.com/publish-a-web-map-on-arcgis-online-using-arcgis-api-for-python-a7b3dc639ed7)
-
-[Simple and Straightforward Classification with Extreme Gradient Boosting — XGboost](https://ywu120766.medium.com/simple-and-straightforward-classification-with-extreme-gradient-boosting-xgboost-e88257dbe9a7)
-
-[Gradient Boost — Classification](https://ywu120766.medium.com/gradient-boost-classification-bc1faf0a3dbe)
-
-[How to Divide Linestring(sf) into Equal Segments with R](https://ywu120766.medium.com/how-to-divide-linestring-sf-into-equal-segments-with-r-935a9ebaec7a)
-
-[Interactive map in Jupyter Notebook](https://ywu120766.medium.com/ipyleaflet-ipywidgets-interactive-map-in-jupyter-notebook-a6ba76586cb5)
 
 ---
 
