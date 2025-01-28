@@ -24,5 +24,5 @@
 
 ## Get in touch
 ### **I'm always open and looking for any opportunity, feel free to reach me out via:<br />**
-- Email: [thonnef@clarku.edu](mailto:thonnef@clarku.edu)<br />
+- Email: [tannerhonnef@gmail.com](mailto:tannerhonnef@gmail.com)<br />
 - Linkedin: [in/tannerhonnef](https://www.linkedin.com/in/tanner-honnef-425683186/)
