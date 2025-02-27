@@ -4,7 +4,7 @@
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/tanner-honnef-425683186/)
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=xVDuszoAAAAJ&hl=en)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](N/A)
 
 #### **Spatial Minds, Data Discoveries - an explorer who merges the worlds of data and geography.** 
 + 👩‍🏫 I am a master's student in the Graduate School of Geography at **Clark University**
