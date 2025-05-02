@@ -13,7 +13,7 @@
 
 + 💻 My research interests include Geographic Information Science (GIS), land change science, urban forestry and spatial data science.
 
-+ 💡 More information can be found on my [LinkedIn](https://www.linkedin.com/in/tanner-honnef-425683186/) | [Resume](https://tannerhonnef.github.io/docs/thonnefResume.pdf)
++ 💡 More information can be found on my [LinkedIn](https://www.linkedin.com/in/tanner-honnef-425683186/) | [Resume](https://tannerhonnef.github.io/docs/thonnefResume.pdf) | [Google Scholar](https://scholar.google.com/citations?user=J3o97q8AAAAJ&hl=en&oi=ao)
 
 ---
 
